@@ -1,2 +1,2 @@
 # read-parse-validate
-Active Learning - Read, parse, and validate JSON files from your machine
+Active Learning - Read, parse, and validate JSON files using python
